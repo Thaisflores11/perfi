@@ -11,12 +11,14 @@
 /*Estilo del cuerpo*/
 *
 {
+    align-items: center;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 body
 {
+    
     display: flex;
     width: 100vw;
     height: 100vh;
@@ -92,6 +94,7 @@ body
 /*tarjetaa*/
 .tarjetaloud
 {
+    
     margin-top: -2%;
     background-color: white;
     height: 170px;
