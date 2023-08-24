@@ -1,3 +1,4 @@
+/*Definicion de clases*/
 :root
 {
     --Dark-cyan: hsl(185, 75%, 39%);
@@ -7,6 +8,7 @@
     --Font-size:(name and stats): 18px;
     --font-family: 'Kumbh Sans', sans-serif;
 }
+/*Estilo del cuerpo*/
 *
 {
     margin: 0;
