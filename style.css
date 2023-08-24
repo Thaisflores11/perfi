@@ -25,6 +25,7 @@ body
     background: url(images/bg-pattern-bottom.svg);
     background-color:aquamarine;
 }
+/*carta superior*/
 .cars
 {
     width: 95%;
@@ -40,6 +41,7 @@ body
     margin-top: -50px;
     margin-left: 150px;
 }
+/*carta superior*/
 .descripcion
 {
     display: flex;
