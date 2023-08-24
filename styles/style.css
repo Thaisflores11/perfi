@@ -14,7 +14,7 @@
     align-items: center;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: border-box;    
 }
 body
 {
@@ -23,8 +23,9 @@ body
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background: url(images/bg-pattern-bottom.svg);
-    background-color:aquamarine;
+    background: url(../images/bg-pattern-bottom.svg);
+    background-color: cadetblue;
+    
 }
 /*carta superior*/
 .cars
